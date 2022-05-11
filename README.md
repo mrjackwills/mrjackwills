@@ -5,7 +5,7 @@
 + change more repositories from private to public
 + make a decent README.md
 
-## Public Repos
+## projects
 
 |name|description|language|
 |---|---|---|

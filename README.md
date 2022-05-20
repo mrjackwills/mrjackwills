@@ -7,6 +7,6 @@
 
 ## projects
 
-|name|description|language|
-|---|---|---|
-|[oxker](https://www.github.com/mrjackwills/oxker)|A simple tui to view & control docker containers |rust
+|name|description|language|other notes|
+|---|---|---|---|
+|[oxker](https://www.github.com/mrjackwills/oxker)|A simple tui to view & control docker containers |rust||

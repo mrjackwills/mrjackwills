@@ -10,5 +10,7 @@
 |name|description|language(s)|other notes|
 |---|---|---|---|
 |[oxker](https://www.github.com/mrjackwills/oxker)|A simple tui to view & control docker containers |Rust||
-|[leafcast_vue](https://www.github.com/mrjackwills/leafcast_vue)| Vue frontend for leafcast application |Vue + Typescript| [see the plants](https://plants.mrjackwills.com), (password on request)|
-|[leafcast_pi](https://www.github.com/mrjackwills/leafcast_pi)| backend for leafcast application |Typescript||
+|[leafcast_vue](https://www.github.com/mrjackwills/leafcast_vue)| The plant camera frontend |Vue + Typescript| [see the plants](https://plants.mrjackwills.com), (password on request)|
+|[leafcast_pi](https://www.github.com/mrjackwills/leafcast_pi)| The plant camera backend |Typescript||
+|[belugasnooze_vue](https://www.github.com/mrjackwills/belugasnooze_vue)| sunrise alarm clock frontend |Vue + Typescript||
+|[belugasnooze_pi](https://www.github.com/mrjackwills/belugasnooze_pi)| sunrise alarm clock frontend backend |Rust| Typescript branch in repo|

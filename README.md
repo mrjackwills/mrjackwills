@@ -1,7 +1,7 @@
 ### Mr Jack Wills
 ## todo
 
-+ ~~waste time creating a clean, simple, readable svg profile logo~~
++ ~~waste time creating a clean, simple, readable svg profile logo, which github won't display correctly~~
 + change more repositories from private to public
 + make a decent README.md
 

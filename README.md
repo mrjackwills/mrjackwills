@@ -13,4 +13,4 @@
 |[leafcast_vue](https://www.github.com/mrjackwills/leafcast_vue)| The plant camera frontend |Vue + Typescript| [see the plants](https://plants.mrjackwills.com), (password on request)|
 |[leafcast_pi](https://www.github.com/mrjackwills/leafcast_pi)| The plant camera backend |Rust|Typescript branch in repo | 
 |[belugasnooze_vue](https://www.github.com/mrjackwills/belugasnooze_vue)| sunrise alarm clock frontend |Vue + Typescript||
-|[belugasnooze_pi](https://www.github.com/mrjackwills/belugasnooze_pi)| sunrise alarm clock frontend backend |Rust| Typescript branch in repo |
+|[belugasnooze_pi](https://www.github.com/mrjackwills/belugasnooze_pi)| sunrise alarm clock backend |Rust| Typescript branch in repo |

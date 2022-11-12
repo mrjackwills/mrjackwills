@@ -17,4 +17,5 @@
 |<a href='https://github.com/mrjackwills/mealpedant_api'><img src='https://github.com/mrjackwills/mealpedant_api/blob/main/.github/logo.svg' width='40px'><br> mealpedant api</a>| Daily (7+ years) meal tracking backend |<strong>Rust</strong>| Typescript branch in repo |
 |<a href='https://github.com/mrjackwills/belugasnooze_vue'><img src='https://github.com/mrjackwills/belugasnooze_vue/blob/main/.github/logo.svg' width='40px'><br> belugasnooze_vue</a>| sunrise alarm clock frontend PWA |<strong>Vue + Typescript</strong>||
 |<a href='https://github.com/mrjackwills/belugasnooze_pi'><img src='https://github.com/mrjackwills/belugasnooze_pi/blob/main/.github/logo.svg' width='40px'><br> belugasnooze_pi</a>| sunrise alarm clock backend |<strong>Rust</strong>| Typescript branch in repo |
+
 <a rel="me" href="https://hachyderm.io/@mrjackwills" target="_blank"></a>
